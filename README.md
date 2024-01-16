@@ -13,6 +13,7 @@ We will start by importing these libraries and loading the movie dataset (`tmdbm
 ## Data Wrangling:
 
 Handled missing values and outliers.
+
 Cleaned and transformed data for analysis.
 
 ## Exploratory Data Analysis (EDA):
