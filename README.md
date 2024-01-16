@@ -74,6 +74,11 @@ Through this analysis, I aim to provide valuable insights into the movie industr
 * Seaborn
 * Scikit-learn
 
+## Instructions for Running the Analysis Code
+
+* Install the required dependencies using `pip install`.
+* Run on either Pycharm or Anaconda Jupyter notebook.
+
 ## Author
 
 * Hiro Worku Gomoro
