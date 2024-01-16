@@ -20,7 +20,6 @@ We will start by importing these libraries and loading the movie dataset (`tmdbm
 
 * Getting overall statistics about the dataframe
 
-* Display Title of movies having runtime >= 180
 
 ## Exploratory Data Analysis (EDA):
 
