@@ -10,12 +10,12 @@ To perform the analysis, we will utilize several libraries for data manipulation
 
 We will start by importing these libraries and loading the movie dataset (`tmdbmovies.csv`). We will then explore the data to understand its structure, contents, and any potential data quality issues.
 
-##Data Wrangling:
+## Data Wrangling:
 
 Handled missing values and outliers.
 Cleaned and transformed data for analysis.
 
-##Exploratory Data Analysis (EDA):
+## Exploratory Data Analysis (EDA):
 
 Addressed key questions :
 
